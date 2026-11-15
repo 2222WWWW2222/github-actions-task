@@ -1,0 +1,11 @@
+{
+  "name": "node-ci-lab",
+  "version": "1.0.0",
+  "description": "GitHub Actions CI lab",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.js dist/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
