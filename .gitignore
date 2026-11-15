@@ -1,0 +1,13 @@
+# Terraform files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+*.tfstate.lock.info
+
+# SSH Keys
+*.pem
+
+# Node modules
+node_modules/
+.env
